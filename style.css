@@ -1,0 +1,155 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.customer {
+  width: 1690px;
+  margin: 0 auto;
+}
+.customer h1 {
+  font-size: 60.457px;
+  font-weight: 700;
+  line-height: 70.533px;
+  padding-bottom: 38px;
+  padding-top: 290px;
+}
+.customer .rewiev p {
+  font-size: 20.152px;
+  font-family: Rubik;
+  line-height: 30.228px;
+  padding-bottom: 60px;
+}
+.acount-name {
+  display: flex;
+  gap: 20px;
+}
+.acount-name .name {
+  padding-top: 10px;
+}
+.umumiy {
+  display: flex;
+  gap: 315px;
+}
+.strelka-icon {
+  padding-top: 35px;
+}
+.windows3 {
+  display: flex;
+  gap: 186px;
+  padding-bottom: 172px;
+}
+.image-one {
+  position: relative;
+}
+.image-one img {
+  padding-top: 108px;
+}
+.order-now {
+  padding: 47px 38px;
+  position: absolute;
+  top: 520px;
+  left: -90px;
+  width: 546.628px;
+  /* height: 268.276px; */
+  border-radius: 10.697px;
+  background: #fff;
+  box-shadow: 0px 5.038048267364502px 50.380489349365234px 0px
+    rgba(0, 0, 0, 0.1);
+}
+.display {
+  display: flex;
+  gap: 272px;
+  flex-wrap: wrap;
+}
+.h4-shrift h4 {
+  padding-bottom: 10px;
+}
+.h4-shrift p i {
+  color: #90e051;
+}
+.h4-shrift p {
+  margin-bottom: 20px;
+}
+/* onlayn-shop */
+.onlayn-shop {
+  padding-top: 337px;
+  padding-bottom: 229px;
+}
+.onlayn-shop .green-station {
+  border-radius: 20px;
+  background: #90e051;
+  width: 1900px;
+  position: relative;
+}
+.green-station h1 {
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 830px;
+  font-size: 65.136px;
+  font-weight: 700;
+  color: white;
+}
+.chiken-burger {
+  position: absolute;
+  top: -200px;
+}
+.tell1 img {
+  position: absolute;
+  top: -200px;
+  left: 270px;
+}
+.tell1 img:nth-child(2) {
+  position: absolute;
+  left: 289px;
+  top: -187px;
+}
+.tell1 img:nth-child(3) {
+  position: absolute;
+  left: 1655px;
+  top: 96px;
+}
+/* kitchen */
+.kitchen {
+  padding-bottom: 363px;
+  position: relative;
+}
+.kitchen img {
+  padding-left: 928px;
+}
+.about {
+  padding: 36px 29px;
+  position: absolute;
+  left: 370px;
+  top: 369px;
+  width: 662px;
+  border-radius: 12.955px;
+  background: #fff;
+  box-shadow: 0px 6.101382732391357px 61.01383590698242px 0px rgba(0, 0, 0, 0.1);
+}
+.about h3 {
+  padding-bottom: 11px;
+  font-size: 40.26px;
+  font-weight: 700;
+  line-height: 58.153px;
+}
+.about p {
+  font-size: 28.419px;
+  font-weight: 700;
+  line-height: 41.049px;
+}
+.doira {
+  border-radius: 211.749px;
+  background: #90e051;
+  width: 211.749px;
+  height: 211.749px;
+  position: absolute;
+  left: 1650px;
+  top: 450px;
+}
+.kitchen .kicik-b img {
+  position: absolute;
+  left: 670px;
+  top: 450px;
+}
